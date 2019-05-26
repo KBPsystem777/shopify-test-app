@@ -1,0 +1,28 @@
+{
+  "name": "shopify-test",
+  "version": "1.0.0",
+  "description": "Learning Shopify Dev",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KBPsystem777/shopify-test-app.git"
+  },
+  "author": "Koleen Paunon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KBPsystem777/shopify-test-app/issues"
+  },
+  "homepage": "https://github.com/KBPsystem777/shopify-test-app#readme"
+}
